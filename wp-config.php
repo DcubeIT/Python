@@ -29,7 +29,7 @@ define('DB_USER', 'python');
 define('DB_PASSWORD', 'nadmas24');
 
 /** MySQL hostname */
-define('DB_HOST', 'db4free.com');
+define('DB_HOST', 'db4free.net');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
